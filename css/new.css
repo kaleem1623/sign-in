@@ -9,21 +9,67 @@ body{
     padding-left: 190px; 
 
 }*/
+
 .type input{
-  height: 45px;
-  width: 270px;
+  height: 48px;
+  width: 360px;
   border-radius: 5px;
   border: 2px solid #f2f2f2;
+  margin-left: 42px;
 }
+#perfect{
+	margin-left: 42px;
+    font-size: 14px;
+    text-decoration: none;
+}
+
 .box{
 	width: 450px;
-	height: 470px;
-	top: 20%;
-	left: 30%;
+	height: 500px;
+	top: 13%;
+	left: 33%;
 	position: absolute; 
 	border-radius: 8px;
 	border: 1px solid #dadce0;
 
+}
+#para{
+	margin-left: 42px;
+    padding-top: 30px;
+    color: #5f6368;
+    font-size: 14px;
+    line-height: 0.4286;
+}
+#perfect{
+	color: #1a73e8;
+    font-weight: 500;
+    letter-spacing: .25px;
+    margin-left: 42px;
+    text-decoration: none;
+    cursor: pointer;
+}
+#perfect2{
+	color: #1a73e8;
+    line-height: 1.4286;
+    margin-left: 42px;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 13px;
+    margin-top: 30px;
+}
+.custo{
+	margin-left: 200px;
+    line-height: 32px;
+    background-color: #1a73e8;
+    border-radius: 3px;
+    color: white;
+    letter-spacing: 0.25px;
+    border: none;
+    width: 70px;
+}
+.logo img{
+	margin-top: 50px;
+    margin-left: 190px;
 }
 
 .logo h5{
@@ -33,10 +79,24 @@ body{
     color: #202124;
     letter-spacing: .1px;
     text-align: center;
-    margin-top: 10px;
+    margin-top: -13px;
 }
 .logo h3{
     font-weight: 500;
     text-align: center;
-    margin-top: 80px;
+    margin-top: 20px;
+    font-size: 24px;
+    margin-left: 13px;
+}
+.mylast li {
+    display:inline;
+  }
+.footer{
+  
+	height: 60px;
+	bottom: 2%;
+	left: 33%;
+    position: fixed;
+   
+	
 }
