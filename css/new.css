@@ -90,13 +90,19 @@ body{
 }
 .mylast li {
     display:inline;
+    margin-left: 25px;
+    font-size: 13px;
+    color: #757575;
   }
 .footer{
   
 	height: 60px;
 	bottom: 2%;
 	left: 33%;
-    position: fixed;
-   
-	
+    position: fixed;	
+}
+#firstlet{
+    margin-left: -38px;
+    font-size: 13px;
+    color: #202124;
 }
